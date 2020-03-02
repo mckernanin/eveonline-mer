@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import DestroyedByRegion from './components/DestroyedByRegion';
 import './App.css';
 
